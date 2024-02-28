@@ -1,6 +1,7 @@
 {
     "name": "biophilia/plaid-sdk-php-2",
     "description": "PHP implementation of Plaid's API as an SDK.",
+    "version": "1.0.0",
     "keywords": [
         "plaid",
         "sdk",
